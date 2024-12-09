@@ -57,6 +57,17 @@
        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     >
+      <img
+       align="center"
+       alt="Flutter"
+       height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+    />
+  <img
+       align="center"
+       alt="MySQL"
+       height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 
 
@@ -66,12 +77,6 @@
        alt="Dart"
        height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-    />
-  <img
-       align="center"
-       alt="Flutter"
-       height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
     />
   <img 
        align="center"
@@ -83,7 +88,14 @@
     align="center"
     alt="Postgresql"
     height="30" width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    />
+  <img
+    align="center"
+    alt="C++"
+    height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    />
 
 
  
