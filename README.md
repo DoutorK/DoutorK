@@ -28,6 +28,7 @@
   <img 
        align="center" 
        alt="Js"
+       title="JavaScript"
        height="30"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
@@ -35,37 +36,43 @@
   <img 
        align="center"
        alt="Ts"
+       title="TypeScript"
        height="30"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
     >
   <img 
        align="center"
-       alt="React" 
+       alt="React"
+       title="React & React-Native"
        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     >
   <img 
        align="center"
        alt="HTML"
+       title="HTML"
        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     >
   <img 
        align="center" 
-       alt="CSS" 
+       alt="CSS"
+       title="CSS"
        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     >
       <img
        align="center"
        alt="Flutter"
+       title="Flutter"
        height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
     />
   <img
        align="center"
        alt="MySQL"
+       title="MySQL"
        height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -75,24 +82,28 @@
   <img 
        align="center"
        alt="Dart"
+       title="Dart"
        height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
     />
   <img 
        align="center"
        alt="Postman"
+       title="Postman"
        height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
     />
   <img 
     align="center"
     alt="Postgresql"
+    title="Postgresql"
     height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
     />
   <img
     align="center"
     alt="C++"
+    title="C++"
     height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
