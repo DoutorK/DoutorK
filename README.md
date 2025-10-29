@@ -1,9 +1,8 @@
 # Giovanny Oliveira
 
-**`Mobile Developer`** & **`Web Developer`**
+**`Mobile Developer`** & **`FullStack Developer`**
 
   Me chamo Giovanny Lucas Oliveira de Aquino e sou natural do Ceará. Atualmente sou graduando em Sistemas de Informação pela UNINASSAU - Juazeiro do Norte. <br/>
-  Também atuo como **`Mobile Developer`** pela startup "Resolve Ai".
   
   ### Contact Me:
   <div> 
