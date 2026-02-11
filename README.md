@@ -14,15 +14,6 @@
 
 ---
 
-### Stats:
-  <a href="https://github.com/DoutorK/github-readme-stats">
-    <img align=center height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoutorK&layout=compact&theme=dark"/>
-  </a>
-  <a href="https://github.com/DoutorK/convoychat">
-     <img align=center height="180em" src ="https://github-readme-stats.vercel.app/api?username=DoutorK&show_icons=true&theme=dark"/>
-  </a>
-
-
 ###  Main:
   <img 
        align="center" 
