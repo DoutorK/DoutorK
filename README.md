@@ -1,6 +1,6 @@
 # Giovanny Oliveira
 
-**`Mobile Developer`** & **`FullStack Developer`**
+**`FullStack Developer`**
 
   Me chamo Giovanny Lucas Oliveira de Aquino e sou natural do Ceará. Atualmente sou graduando em Sistemas de Informação pela UNINASSAU - Juazeiro do Norte. <br/>
   
@@ -15,6 +15,15 @@
 ---
 
 ###  Main:
+
+  <img 
+       align="center" 
+       alt="PHP"
+       title="PHP"
+       height="30"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+    >
   <img 
        align="center" 
        alt="Js"
@@ -40,25 +49,12 @@
     >
   <img 
        align="center"
-       alt="HTML"
-       title="HTML"
+       alt="Python"
+       title="Python"
        height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     >
-  <img 
-       align="center" 
-       alt="CSS"
-       title="CSS"
-       height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    >
-      <img
-       align="center"
-       alt="Flutter"
-       title="Flutter"
-       height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-    />
+    
   <img
        align="center"
        alt="MySQL"
